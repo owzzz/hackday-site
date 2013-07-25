@@ -1,2 +1,2 @@
-hackday-site
+Hackday Site
 ============
